@@ -4,7 +4,7 @@ Hi 👋 My name is Alex Sanchez-Olvera
 Product designer & front-end JavaScript developer
 -------------------------------------------------
 
-I'm a self-taught UI/UX designer and front-end JavaScript developer with more than 5 years of experience in end-to-end digital product design. Currently seeking full-time remote (or hybrid) work with mission-driven SMBs in tech, healthcare, and finance.
+I'm a self-taught UI/UX designer and front-end JavaScript developer with more than 5 years of experience in end-to-end digital product design.
 
 * 🌍  I'm based in Long Beach, CA
 * 🖥️  See my portfolio at [link](http://alexsanchez.design)
